@@ -1,0 +1,12 @@
+Name|Description|Effect type|Effect value|Candy type|Price
+Frosty_Fizz|Boosts player's stamina by 10 units|stamina|10|magical|10
+Lucky_Licorice|Decreases opponents stamina by 10 units (mild)|stamina|-10|poison|15
+Ruby_Rapture|Forms a gummy barrier on a chosen tile and opponent loses 2 turns|turns|-2|gummy|20
+Crimson_Crystal|Boosts player's stamina by 15 units|stamina|15|magical|20
+Fearsome_Fudge|Forms a gummy barrier on a chosen tile and opponent loses 1 turn|turns|-1|gummy|15
+Venomous_Vortex|Decreases opponents stamina by 15 units(moderate)|stamina|-15|poison|20
+Bubblegum_Blast|Protects against mild poison candy|other|1|immunity|15
+Mystic_Marshmallow|Boosts player's stamina by 20 units|stamina|20|magical|30
+Sparkling_Sapphire|Protects against mild and moderate poison candies|other|2|immunity|20
+Toxic_Taffy|Decreases opponents stamina by 20 units(strong)|stamina|-20|poison|25
+Caramel_Comet|Protects against all poison candies|other|3|immunity|25
